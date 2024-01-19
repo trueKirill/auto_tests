@@ -1,1 +1,3 @@
 # auto_tests
+
+try
